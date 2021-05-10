@@ -24,11 +24,6 @@ Project is created with
 
 ## Setup
 
-**Inspirational messages** (*messages should have at least three pieces of data*)
-
-
-
-
 
 ## Future scope
 
