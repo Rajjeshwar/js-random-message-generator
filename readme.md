@@ -27,7 +27,7 @@ Project is created with
 
 ## Future scope
 
-Adding markov chaining functionality using words to generate a quote from scratch
+Create a less random text generator using gated recurrent units
 
 
 
